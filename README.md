@@ -67,6 +67,3 @@ java --module-path /opt/javafx-sdk-17.0.14/lib --add-modules javafx.controls,jav
 
 This project is licensed under the MIT License.
 
-📞 Contact
-
-For any inquiries or support, reach out to your-email@example.com.
