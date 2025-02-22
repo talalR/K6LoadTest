@@ -63,6 +63,14 @@ java --module-path C:\javafx-sdk-17.0.14\lib --add-modules javafx.controls,javaf
 
 java --module-path /opt/javafx-sdk-17.0.14/lib --add-modules javafx.controls,javafx.fxml -jar target/K6UILoadTest-1.0-SNAPSHOT.jar
 
+
+
+
+
+
+Created By The Master 
+https://www.techmaster.agency/
+
 📜 License
 
 This project is licensed under the MIT License.
